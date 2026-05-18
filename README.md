@@ -1,4 +1,4 @@
-# 📊 Facilita BI — Ecossistema Analítico 0800
+# 📊 F. BI — Ecossistema Analítico 0800
 
 > Plataforma de BI que consolida a operação de atendimento 0800 de uma central entre as maiores do Brasil em três painéis vivos — Diretoria, Cliente e Operacional — a partir de uma única fonte de dados.
 
