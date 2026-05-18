@@ -94,19 +94,19 @@ Table.SelectRows(Fonte, each [Cliente] = ParametroCliente)
 
 ## Dashboard Diretoria — KPIs Executivo
 
-![Dashboard Diretoria](./assets/dashboard-diretoria.png)
+![Dashboard Diretoria](./assets/diretor-kpis.png)
 
 ---
 
 ## Dashboard Prestação de Contas — Análise de Serviços
 
-![Prestação de Contas](./assets/dashboard-prestacao-contas.png)
+![Prestação de Contas](./assets/prestacao-contas.png)
 
 ---
 
 ## Dashboard Operacional — Relatório de Atendimento
 
-![Operacional](./assets/dashboard-operacional.png)
+![Operacional](./assets/operacional.png)
 
 ---
 
