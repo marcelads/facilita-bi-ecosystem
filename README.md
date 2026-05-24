@@ -260,6 +260,18 @@ A matemática parece pequena até RH precisar explicar porque existem dois terce
 
 ---
 
+# 📈 Impacto Operacional
+
+| Antes | Depois |
+|---|---|
+| Múltiplos PBIX mantidos manualmente | Modelo centralizado |
+| Risco de vazamento entre clientes | Isolamento lógico no modelo |
+| Atualizações descentralizadas | Pipeline único de atualização |
+| Visões desconectadas entre áreas | Ecossistema analítico integrado |
+| Consolidação manual de indicadores | KPIs automatizados |
+| Alto esforço operacional | Processo padronizado e escalável |
+
+
 # 📚 Glossário do domínio
 
 | Termo        | Definição                  |
